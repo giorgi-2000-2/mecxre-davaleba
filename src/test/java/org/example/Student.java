@@ -2,7 +2,7 @@ package org.example;
 import net.datafaker.Faker;
 import java.util.Objects;
 
-    public class Student {
+     class Student {
 
         private String studentId;
         private String name;
